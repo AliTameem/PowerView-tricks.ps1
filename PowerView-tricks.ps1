@@ -1,8 +1,4 @@
-# PowerView's last major overhaul is detailed here: http://www.harmj0y.net/blog/powershell/make-powerview-great-again/
-#   tricks for the 'old' PowerView are at https://gist.github.com/HarmJ0y/3328d954607d71362e3c
 
-# the most up-to-date version of PowerView will always be in the dev branch of PowerSploit:
-#   https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1
 
 # New function naming schema:
 #   Verbs:
